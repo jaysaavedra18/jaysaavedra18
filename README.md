@@ -12,7 +12,7 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
       <a href="https://github.com/jaysaavedra18?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jaysaavedra18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <a href="https://jamsenchiridion.com">
-        <img alt="portfolio" title="portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+        <img alt="portfolio" title="portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-purple?style=for-the-badge&logo=mention&logoColor=white"/></a>
    </p>
 
 ---
@@ -73,7 +73,7 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
  <summary><h3>🤴🏽 Jason's Programming Journey</h3></summary>
    I began my programming journey at Purdue University in 2020. Initially, I was a Math major but soon realized that pursuing a field without passion wouldn't lead to a fulfilling career. At the end of my sophomore year, I decided to explore my true interests and signed up for my first course, Object-Oriented Programming in Java. This decision sparked my enthusiasm for technology, leading me to switch my major to Computer Science. 
    
-   Since then, I've earned my degree while working on various personal and team-oriented projects, which have helped me learn new frameworks and languages, ultimately shaping me into the Full-Stack Developer I am today. I also worked as an IT Service Representative at Purdue University, where I contributed to production tools used in the office for scanning and managing ticketing system queues. While I excelled in customer service, assisting users with software and hardware issues, my true passion lies in transitioning to a Software Engineering role. I am eager to leverage my programming skills to make meaningful contributions to production-level codebases.
+   Since then, I've earned my degree while working on various personal and team-oriented projects, which have helped me learn new frameworks and languages, ultimately shaping me into the Full-Stack Developer I am today. I also worked as an IT Service Representative at Purdue University, where I contributed to production tools used in the office for scanning and managing ticketing system queues. While I excelled in customer service, assisting users with software and hardware issues, my true passion lies in Software Engineering. I am eager to leverage my programming skills to make meaningful contributions to production-level codebases.
    Please take a moment to explore my GitHub profile, repositories, and portfolio to learn more about my experience and drive.
 
 [website]: https://jamsenchiridion.com
