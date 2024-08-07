@@ -1,3 +1,18 @@
+# 👨🏽‍💻 Jason Saavedra
+
+**`Digital Craftsman (Developer/Engineer/Explorer)`**
+
+I'm a Full-Stack Developer with experience in a plethora of languages and frameworks and a strong understanding of programming and software engineering fundamentals. I began my tech journey at Purdue University where I earned my B.S. in Computer Science, worked as an IT Service Rep, and gained experience in a handful of projects both individual and on several teams. Now I invest my time in learning new systems, building personal projects, and
+
+   <p align="left">
+      <a href="https://github.com/jaysaavedra18?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jaysaavedra18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/jaysaavedra18?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jaysaavedra18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+
 ### 💻 Languages and Tools
 
 <!-- JAVASCRIPT -->
@@ -14,6 +29,8 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <!-- DJANGO -->
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<!-- MONGODB -->
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <!-- AWS -->
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <!-- FIREBASE -->
