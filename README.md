@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Developer/Engineer/Explorer)`**
 
-I'm a Full-Stack Developer with experience in a plethora of languages and frameworks and a strong understanding of programming and software engineering fundamentals. I began my tech journey at Purdue University where I earned my B.S. in Computer Science, worked as an IT Service Rep, and gained experience in a handful of projects both individual and on several teams. Now I invest my time in learning new systems, building personal projects, and
+I'm a Full-Stack Developer with extensive experience in various languages and frameworks, coupled with a solid understanding of programming and software engineering fundamentals.
+I began my tech journey at Purdue University, where I earned a B.S. in Computer Science. During my time there, I worked as an IT Service Rep and participated in numerous projects, both individually and as part of teams. Currently, I invest my time in learning new systems through personal projects and open-source contributions.
+I aspire to leverage my skills in a professional role to make meaningful contributions in real-world production environments.
 
    <p align="left">
       <a href="https://github.com/jaysaavedra18?tab=followers">
