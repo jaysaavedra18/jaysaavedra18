@@ -78,9 +78,9 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
    Since then, I've earned my degree while working on various personal and team-oriented projects, which have helped me learn new frameworks and languages, ultimately shaping me into the Full-Stack Developer I am today. I also worked as an IT Service Representative at Purdue University, where I contributed to production tools used in the office for scanning and managing ticketing system queues. While I excelled in customer service, assisting users with software and hardware issues, my true passion lies in Software Engineering. I am eager to leverage my programming skills to make meaningful contributions to production-level codebases.
    Please take a moment to explore my GitHub profile, repositories, and portfolio to learn more about my experience and drive.
 
+<!---
 [website]: https://jamsenchiridion.com
 
-<!---
 jaysaavedra18/jaysaavedra18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
