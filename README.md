@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Developer/Engineer/Explorer)`**
 
+<!-- About Me -->
+
 I'm a Full-Stack Developer with extensive experience in various languages and frameworks, coupled with a solid understanding of programming and software engineering fundamentals.
 I began my tech journey at Purdue University, where I earned a B.S. in Computer Science. During my time there, I worked as an IT Service Rep and participated in numerous projects, both individually and as part of teams. Currently, I invest my time in learning new systems through personal projects and open-source contributions.
 I aspire to leverage my skills in a professional role to make meaningful contributions in real-world production environments.
@@ -63,7 +65,7 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jaysaavedra18&theme=gruvbox&border_radius=4.5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaysaavedra18&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
 ---
 
