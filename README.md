@@ -67,9 +67,9 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 <!-- Repo Cards -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/apple-fitness-health-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical&bg_color=00000000&card_width=400px)](https://github.com/jaysaavedra18/apple-fitness-health-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/welcome-home-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical&bg_color=00000000&card_width=400px)](https://github.com/jaysaavedra18/welcome-home-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matcha-devs&repo=matcha&theme=radical&bg_color=00000000)](https://github.com/matcha-devs/matcha)
 
