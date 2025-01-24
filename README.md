@@ -79,12 +79,6 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-metrics-cli&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/apple-fitness-health-metrics-cli)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=reconnect-app&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/reconnect-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=audio-playlist-manager&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/audio-playlist-manager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=music-sharing-app&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/music-sharing-app)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parampatel21&repo=Sentiment&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/jaysaavedra18)
 
 #
