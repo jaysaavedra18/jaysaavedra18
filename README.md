@@ -67,7 +67,7 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=radical&bg_color=00000000&show=prs_merged,prs_merged_percentage&card_width=500px)
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jaysaavedra18&langs_count=8&card_width=400&theme=radical)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jaysaavedra18&langs_count=6&card_width=400&theme=radical)
 
 <!-- Repo Cards -->
 
