@@ -65,14 +65,21 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=portfolio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=reconnect-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=audio-playlist-manager&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=music-sharing-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-metrics-cli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=jaysaavedra18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical)](https://github.com/jaysaavedra18/welcome-home-bot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical)](https://github.com/jaysaavedra18/apple-fitness-health-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=portfolio&theme=radical)](https://github.com/jaysaavedra18/portfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=reconnect-app&theme=radical)](https://github.com/jaysaavedra18/reconnect-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=audio-playlist-manager&theme=radical)](https://github.com/jaysaavedra18/audio-playlist-manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=music-sharing-app&theme=radical)](https://github.com/jaysaavedra18/music-sharing-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-metrics-cli&theme=radical)](https://github.com/jaysaavedra18/apple-fitness-health-metrics-cli)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=jaysaavedra18&theme=radical)](https://github.com/jaysaavedra18/jaysaavedra18)
 
 #
 
