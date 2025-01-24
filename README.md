@@ -65,7 +65,14 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaysaavedra18&theme=radical&border_radius=6)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=portfolio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=reconnect-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=audio-playlist-manager&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=music-sharing-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-metrics-cli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=jaysaavedra18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
