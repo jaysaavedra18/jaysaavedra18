@@ -63,13 +63,17 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 ### 📊 Stats
 
+<!-- Statistics -->
+
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=radical&bg_color=00000000&show=prs_merged,prs_merged_percentage&card_width=500px)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jaysaavedra18&langs_count=8&card_width=400&theme=radical)
 
 <!-- Repo Cards -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical&bg_color=00000000&card_width=400px)](https://github.com/jaysaavedra18/apple-fitness-health-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical&bg_color=00000000&card_width=500px)](https://github.com/jaysaavedra18/apple-fitness-health-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical&bg_color=00000000&card_width=400px)](https://github.com/jaysaavedra18/welcome-home-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical&bg_color=00000000&card_width=200px)](https://github.com/jaysaavedra18/welcome-home-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matcha-devs&repo=matcha&theme=radical&bg_color=00000000)](https://github.com/matcha-devs/matcha)
 
