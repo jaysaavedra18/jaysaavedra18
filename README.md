@@ -63,11 +63,9 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 ### 📊 Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=gruvbox)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysaavedra18&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaysaavedra18&theme=radical&border_radius=6)](https://git.io/streak-stats)
-
----
 
 #
 
