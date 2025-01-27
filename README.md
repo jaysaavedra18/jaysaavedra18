@@ -71,13 +71,13 @@ I aspire to leverage my skills in a professional role to make meaningful contrib
 
 <!-- Repo Cards -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical&bg_color=00000000&card_width=500px)](https://github.com/jaysaavedra18/apple-fitness-health-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=audio-playlist-manager&theme=radical&bg_color=00000000&card_width=500px)](https://github.com/jaysaavedra18/audio-playlist-manager)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical&bg_color=00000000&card_width=200px)](https://github.com/jaysaavedra18/welcome-home-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-app&theme=radical&bg_color=00000000&card_width=500px)](https://github.com/jaysaavedra18/apple-fitness-health-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matcha-devs&repo=matcha&theme=radical&bg_color=00000000)](https://github.com/matcha-devs/matcha)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=apple-fitness-health-metrics-cli&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/apple-fitness-health-metrics-cli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaysaavedra18&repo=welcome-home-bot&theme=radical&bg_color=00000000&card_width=200px)](https://github.com/jaysaavedra18/welcome-home-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parampatel21&repo=Sentiment&theme=radical&bg_color=00000000)](https://github.com/jaysaavedra18/jaysaavedra18)
 
